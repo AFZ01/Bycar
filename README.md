@@ -1,5 +1,5 @@
 # Bycar
-Baykar İK Kariyer Sayfası
+Bykar İK Kariyer Sayfası
 
 Sağlık problemlerim nedeniyle 2 gün proje çalışabildim ve tamamını yetiştiremedim.
 Django ile ilk projemdi ve tamamlayamadım. javascript konusundada ilk deneyimim oldu.
